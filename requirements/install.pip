@@ -1,5 +1,5 @@
 aniso8601>=0.82
-jsonschema<=4.17.3
+jsonschema
 Flask>=0.8, !=2.0.0
 werkzeug!=2.0.0
 pytz
